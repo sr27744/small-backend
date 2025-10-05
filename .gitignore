@@ -1,0 +1,15 @@
+# builds & caches
+*.exe
+*.test
+*.out
+dist/
+bin/
+
+# env & local data
+.env
+data.json
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
